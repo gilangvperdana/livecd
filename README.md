@@ -8,3 +8,4 @@ This repo just for research about instantly deploy an HTML Page.
     - Create PR from `feat-deploy/deploy`
     - Merge from `feat-deploy/deploy` to `main`
 - Wait a minute then check on public endpoint -> `live.appsec.gbesar.link`
+- If you want to access html inside folder -> `live.appsec.gbesar.link/folder`
